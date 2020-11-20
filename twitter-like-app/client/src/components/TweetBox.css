@@ -1,0 +1,21 @@
+.tweet-box {
+  width: 40vw;
+  display: flex;
+  flex-direction: column;
+}
+
+.tweet-box-form {
+  width: 100%;
+  position: relative;
+}
+
+.tweet-box-form > * {
+  margin-top: 8px;
+}
+
+.tweet-btn {
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05), 0 4px 10px rgba(0, 123, 255, 0.25) !important;
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+}

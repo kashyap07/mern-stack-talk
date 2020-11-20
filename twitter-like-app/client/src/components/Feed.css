@@ -1,0 +1,8 @@
+.feed {
+  margin: 40px 0;
+  width: 40vw;
+}
+
+.feed > div > ul {
+  margin: 12px 0;
+}

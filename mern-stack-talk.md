@@ -29,7 +29,7 @@ These slides + code at: github.com/kashyap07/mern-stack-talk
 
 ---
 
-<!-- class: lead -->
+<!-- _class: lead -->
 
 # Quick Recap
 
@@ -43,10 +43,11 @@ These slides + code at: github.com/kashyap07/mern-stack-talk
 <!-- mention node js vs browser js -->
 <!-- python 3 runtime -->
 <!-- node doesn't neccessarily have to be web -->
+<!-- ECMASCRIPT -->
 
 ---
 
-<!-- class: lead -->
+<!-- _class: lead -->
 
 # The Big Picture
 
@@ -64,8 +65,8 @@ These slides + code at: github.com/kashyap07/mern-stack-talk
   - Watch: youtu.be/Q-lHpZBh3lQ
 
 <!-- persistent storage vs in memory -->
-<!-- vertical - bigger/better machine -->
-<!-- horizontal - many more -->
+<!-- vertical - bigger/better machine - scale up -->
+<!-- horizontal - many more - scale out -->
 <!-- Load distribution but sacrifice strong consistency -->
 <!-- https://www.youtube.com/watch?v=Q-lHpZBh3lQ -->
 
@@ -143,7 +144,7 @@ youtu.be/8aGhZQkoFbQ)
 
 - Single page applications - React router
 - State management
-- UI Componenets - reuseability
+- UI Components - reuseability
 - JSX Javascript XML
 
 <!-- Fake pages, history is properly stored on browser -->
@@ -163,37 +164,42 @@ youtu.be/8aGhZQkoFbQ)
 <!-- 1 product - 1 team devs work on full stack -->
 <!-- Mongo not quite -->
 <!-- 1M concurrent tasks -->
+<!-- Deployment 3/2/1 servers -->
 
 ---
 
 # Current state of MERN development
 
 - Promises
-- es10
+- es6 --> es10
 - Building/Bundling
 - Typescript
 - graphql
 - ci/cd
 - nginx
 - SSR
+- Docker
 
 <!-- React Hydrate -->
 
 ---
 
-<!-- class: lead -->
+<!-- _class: lead -->
 
 # Walkthrough
 
 Twitter like feed
 
+<!-- es6 stuff -->
+<!-- explain hooks -->
+<!-- debugging -->
+<!-- SEO pug -->
+
 ---
 
-<!-- class: lead -->
+<!-- _class: lead -->
 
 # Thank you!
 
 Find these slides + code at
 github.com/kashyap07/mern-stack-talk
-
-<!-- SEO pug -->
